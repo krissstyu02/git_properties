@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>  
 
+
 int main() {
     std::string name;  // объявляем переменную для имени пользователя
     std::cout << "Enter your name: ";  
