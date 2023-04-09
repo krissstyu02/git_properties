@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string>  
+#include <string>
 
 
 int main() {
@@ -8,4 +8,5 @@ int main() {
     std::cin >> name;  // считываем имя пользователя из стандартного ввода :)
     std::cout << "Hello world from @" << name << "\n";  // выводим сообщение с именем пользователя!!hooray
     return 0;
+
 }
